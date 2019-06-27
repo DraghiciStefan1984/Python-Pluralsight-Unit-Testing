@@ -1,6 +1,7 @@
 import unittest
 from phonebook import Phonebook
 
+#test done in the 'Java' way
 class PhonebookTest(unittest.TestCase):
 	#part of the test fixture
 	#setup the intial resources required by all the tests
